@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.container {
+    width: 100%;
+    height: auto;
+    background: lightgreen;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.box {
+    width: 50%;
+    height: 100px;
+    margin: 20px;
+    box-sizing: border-box;
+    background: white;
+    font-size: 10px;
+    border-style: outset;
+
+}
+
+.r-arrow {
+    float: right;
+    margin-left: 10%;
+}
